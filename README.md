@@ -31,3 +31,8 @@ The backtesting is developed by using the following libraries
  * **Flat wealth periods:** One of the most critical features is the "Flat line" in the wealth curve, which proves the strategy performs well in times of crashes and market decline and creates a hedge against the market.
  * **Following the trend:** model follows the trend, the market is presumed to be heading, creating a significant reason for buying or selling to match the trend.
       
+Disclaimer
+This project is for **educational and research purposes only**. 
+Trading gold and other financial instruments involves significant risk. 
+Past performance is not indicative of future results. 
+Always perform your own due diligence before making investment decisions
