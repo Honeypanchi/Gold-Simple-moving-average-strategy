@@ -1,0 +1,1 @@
+# Gold-Simple-moving-average-strategy
